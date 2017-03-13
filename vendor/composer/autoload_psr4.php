@@ -17,5 +17,6 @@ return array(
     'Illuminate\\Contracts\\' => array($vendorDir . '/illuminate/contracts'),
     'Illuminate\\Container\\' => array($vendorDir . '/illuminate/container'),
     'FastRoute\\' => array($vendorDir . '/nikic/fast-route/src'),
+    'Chatter\\' => array($baseDir . '/src/Chatter'),
     'Carbon\\' => array($vendorDir . '/nesbot/carbon/src/Carbon'),
 );

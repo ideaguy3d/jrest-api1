@@ -39,6 +39,7 @@ class ComposerStaticInit8b08126d2cd0e001a62b58b630e38ae3
         ),
         'C' => 
         array (
+            'Chatter\\' => 8,
             'Carbon\\' => 7,
         ),
     );
@@ -87,6 +88,10 @@ class ComposerStaticInit8b08126d2cd0e001a62b58b630e38ae3
         'FastRoute\\' => 
         array (
             0 => __DIR__ . '/..' . '/nikic/fast-route/src',
+        ),
+        'Chatter\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src/Chatter',
         ),
         'Carbon\\' => 
         array (
